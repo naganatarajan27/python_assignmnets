@@ -1,0 +1,38 @@
+
+--- Page 1 ---
+Chemistry  
+ 
+Chapter 1: Basic concepts of chemistry  
+ 
+1. What is the SI unit of mass?  
+A) Gram (g)  
+B) Kilogram (kg)  
+C) Pound (lB)  
+D) Ounce (oz)  
+Answer: B) Kilogram (kg)  
+2. Which of the following is an example of a chemical change?  
+A) Melting of ice  
+B) Cutting of paper  
+C) Rusting of iron  
+D) Boiling of water  
+Answer: C) Rusting of iron  
+3. What is Avogadro's number?  
+A) 6.022×10236.022 \times 10^{23}6.022×1023  
+B) 3.14×1033.14 \times 10^33.14×103  
+C) 9.81×1029.81 \times 10^{2}9.81×102  
+D) 1.67×10−241.67 \times 10^{ -24}1.67×10−24  
+Answer: A) 6.022×10236.022 \times 10^{23}6.022×1023  
+4. Which of the following elements has the highest electronegativity?  
+A) Oxygen (O)  
+B) Hydrogen (H)  
+C) Fluorine (F)  
+D) Carbon (C)  
+Answer: C) Fluorine (F)  
+5. What is the chemical form ula for water?  
+A) CO₂ 
+B) H₂O 
+C) O₂ 
+D) HCl  
+Answer: B) H ₂O 
+6. Which of the following is a homogeneous mixture?  
+A) Sand and water  
