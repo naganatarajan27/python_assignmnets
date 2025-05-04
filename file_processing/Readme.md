@@ -47,3 +47,21 @@
 3. Take care of case where the output.txt file is not available in a sub-folder
 4. Take care of case where no configuration file is available
 5. Take care of the case where configuration file does not have the regular expression
+
+## Project 5 - databaseProcessing.py
+### Store extracted questions in mysql
+### Requirements
+1. Update project 4 and add support for database
+2. Create a database to store the following
+3. Subject Name
+4. Question Text
+5. Answer options
+6. Chapter name
+7. Load a PDF containing questions
+8. Extract each question as per a regular expression
+9. Store each question in the database
+### Error Handling
+1. Take care of case where database is not available
+2. Take care of case where table is not available
+3. Take care of any error handling in DB operations
+
