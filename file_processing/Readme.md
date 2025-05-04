@@ -21,3 +21,39 @@
 1. Take care of case where folder is not available
 2. Take care of case where PDF file is not present in a sub-folder
 3. Take care of case where the output.txt file is not available in a sub-folder
+## Project 3
+## Read content from a particular page
+### Requirements
+1. Update project 1 and update the reading of content 
+2. Take a page number as an input from command prompt
+3. Read content of the page number provided and write to the output file
+### Error Handling
+1. Take care of case where folder is not available
+2. Take care of case where PDF file is not present in a sub-folder
+3. Take care of case where the output.txt file is not available in a sub-folder
+
+## Project 3 - filereaderperpage.py
+## Read content from a particular page
+### Requirements
+1. Update project 1 and update the reading of content 
+2. Take a page number as an input from command prompt
+3. Read content of the page number provided and write to the output file
+### Error Handling
+1. Take care of case where folder is not available
+2. Take care of case where PDF file is not present in a sub-folder
+3. Take care of case where the output.txt file is not available in a sub-folder
+
+## Project 4
+## Read regular expression from a config file and extract content
+### Requirements
+1. Update project 3
+2. Add support for a configuration file 
+3. In the configuration file set a config with key “regex” and value some regular expression that will match a part of the content in the PDF
+4. Update code to extract only the content matching the regular expression 
+5. Write to the output file
+### Error Handling
+1. Take care of case where folder is not available
+2. Take care of case where PDF file is not present in a sub-folder
+3. Take care of case where the output.txt file is not available in a sub-folder
+4. Take care of case where no configuration file is available
+5. Take care of the case where configuration file does not have the regular expression
