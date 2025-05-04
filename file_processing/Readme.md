@@ -10,23 +10,13 @@
 2. Take care of case where PDF file is not present in the content folder
 3. Take care of case where the output.txt file is not available
 
-## Project 2
+## Project 2 - traversefolder.py
 ### Traverse through folder tree and filter pdf files
 ### Requirements
 1. Add sub-folders called “One”, “Two”, “Three” under the folder called “/content”
 2. Add PDF files under each of the sub-folders
 3. Load all PDF files under the sub-folders and load the PDF content
 4. Write the content to a text file called “output.txt” under each sub-folder respectively
-### Error Handling
-1. Take care of case where folder is not available
-2. Take care of case where PDF file is not present in a sub-folder
-3. Take care of case where the output.txt file is not available in a sub-folder
-## Project 3
-## Read content from a particular page
-### Requirements
-1. Update project 1 and update the reading of content 
-2. Take a page number as an input from command prompt
-3. Read content of the page number provided and write to the output file
 ### Error Handling
 1. Take care of case where folder is not available
 2. Take care of case where PDF file is not present in a sub-folder
@@ -43,7 +33,7 @@
 2. Take care of case where PDF file is not present in a sub-folder
 3. Take care of case where the output.txt file is not available in a sub-folder
 
-## Project 4
+## Project 4 - regexUsage.py
 ## Read regular expression from a config file and extract content
 ### Requirements
 1. Update project 3
