@@ -65,3 +65,12 @@
 2. Take care of case where table is not available
 3. Take care of any error handling in DB operations
 
+## Project 6 - chapterWiseQstn.py
+### Load all questions from a chapter
+### Requirements
+1. Update project 5 and add support for taking a chapter name as input in the command line
+2. Load all questions from the input chapter
+3. Print all questions on the console
+### Error Handling
+1. Take care of case where empty string is provided as input from command line
+2. Take care of case where there are no questions corresponding to the provided chapter name
