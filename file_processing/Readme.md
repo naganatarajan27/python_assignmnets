@@ -74,3 +74,15 @@
 ### Error Handling
 1. Take care of case where empty string is provided as input from command line
 2. Take care of case where there are no questions corresponding to the provided chapter name
+
+## Project 7 - rssFeed.py
+### Load RSS content and then extract content from each link. Do this in multiple threads
+### Requirements
+1. Load an RSS xml file (Format: https://www.w3schools.com/xml/xml_rss.asp)
+2. Loop through each link
+3. Extract content from each link and write to “output.txt”
+4. Execute reading from multiple links in parallel
+### Error Handling
+1. Take care of case where no RSS xml file is available
+2. Take care of case where xml file is empty
+
