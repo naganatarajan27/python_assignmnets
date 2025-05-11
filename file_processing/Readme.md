@@ -86,3 +86,26 @@
 1. Take care of case where no RSS xml file is available
 2. Take care of case where xml file is empty
 
+
+## Project 8 - databaseInsert.py
+Update project 5 to support different types of questions. Questions can be 1) Subjective type with long answers, Objective type with a True/False or Objective type with multiple answer choices.
+Support an interface that takes a Question and stores it.
+
+Use inheritance to support different types of questions being stored by the implementation of the interface
+
+### Example:
+Q1 - Earth is round
+True
+False
+Q2 - What are is the color of a leaf typically
+Red
+Blue
+Green
+White
+Q3 - Describe the properties of steel
+
+### Requirements
+Implement using the OOPs concepts
+E### rror Handling
+As per project 5
+
